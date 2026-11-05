@@ -1,0 +1,6 @@
+data/*
+!data/MANIFEST.tsv
+!data/stage_data.sh
+output/
+.ipynb_checkpoints/
+.Rhistory
